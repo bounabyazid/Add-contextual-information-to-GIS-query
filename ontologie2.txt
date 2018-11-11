@@ -1,0 +1,29 @@
+Tourisme
+Infrastructure Administrative
+Commune
+Daira
+Wilaya
+Infrastructure Touristique
+Agence
+Gerant
+Guide
+Medecin
+Infrastructure Immobiliere
+Hotel
+Hotel Classe A
+Hotel Classe B
+Hotel Hors Classe
+Restaurant
+Restaurant Classe A
+Restaurant Classe B
+Restaurant Hors Classe
+Transport
+Bus
+Vehicule
+Vehicule Privé
+Taxi
+Site
+Site Art
+Site Thermique
+Site Naturel
+Site Touristique
